@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "lricher7329.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        cases.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

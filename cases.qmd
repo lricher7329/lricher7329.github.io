@@ -1,0 +1,3 @@
+## Cases
+
+1.  [Leigh's Disease](cases/leighs_disease.qmd)
