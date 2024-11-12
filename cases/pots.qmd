@@ -1,0 +1,102 @@
+---
+title: "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)"
+author: "Your Name"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+  pptx:
+    slide-level: 2
+---
+
+# Clinical History
+
+### Presenting Complaint
+- 16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing.
+
+### History of Present Illness
+- Symptoms began six months ago, progressively worsening.
+- Increased dizziness and palpitations in the morning.
+- Fatigue most days, affecting focus in school.
+- Near-syncope episodes without loss of consciousness.
+- Episodes last from seconds to minutes, relieved by lying down.
+
+### Past Medical History
+- History of anxiety, no other significant medical conditions.
+- No syncope, seizure, or head trauma.
+
+### Family History
+- Mother has migraines; sibling with anxiety.
+
+### Social History
+- High-achieving student; recent cutback in sports due to fatigue.
+
+### Review of Systems
+- Denies chest pain, shortness of breath, or visual changes.
+- Reports occasional abdominal discomfort and constipation.
+
+---
+
+# Physical Examination
+
+- **Supine Vital Signs:** HR 78 bpm, BP 110/70 mmHg
+- **Standing (after 10 min):** HR 130 bpm, BP 108/68 mmHg
+  - Heart rate increase > 40 bpm from supine to standing.
+- Normal cardiac and respiratory exam.
+- Neurological exam is normal.
+- Skin: mildly cool extremities, no rash.
+
+---
+
+# Illustrative Questions and Answers
+
+### Question 1: What is the most likely diagnosis?
+- **Answer:** Postural Orthostatic Tachycardia Syndrome (POTS), characterized by a heart rate increase upon standing without significant hypotension, often with symptoms like dizziness, fatigue, and palpitations.
+
+### Question 2: What diagnostic criteria define POTS?
+- **Answer:** 
+  - Heart rate increase of ≥30 bpm (or ≥40 bpm in adolescents) within 10 minutes of standing or head-up tilt, without significant hypotension.
+  - Symptoms lasting ≥6 months.
+  - Exclusion of other causes.
+
+### Question 3: What initial diagnostic tests should be considered?
+- **Answer:**
+  - **Orthostatic Vital Signs**
+  - **Head-Up Tilt Test (HUTT)**
+  - **Blood Tests** (to rule out secondary causes).
+  - **ECG** (to rule out arrhythmias or structural abnormalities).
+
+### Question 4: How does the Head-Up Tilt Test (HUTT) support the diagnosis of POTS?
+- **Answer:** In POTS, HUTT typically shows a marked HR increase without BP drop when tilted to 60–70 degrees, confirming orthostatic intolerance.
+
+### Question 5: What are common comorbid conditions associated with POTS?
+- **Answer:** Anxiety, migraines, irritable bowel syndrome (IBS), and chronic fatigue syndrome.
+
+### Question 6: What are key components of non-pharmacologic management for POTS?
+- **Answer:**
+  - **Increased fluid intake** (2–3 liters/day) and **salt supplementation.**
+  - **Physical reconditioning,** especially lower body strength.
+  - **Compression garments.**
+  - **Frequent small meals** to prevent postprandial symptoms.
+  - **Sleep hygiene** and **stress management.**
+
+### Question 7: When would pharmacologic management be considered, and what options are available?
+- **Answer:** For significant symptoms despite lifestyle changes. Options include:
+  - **Beta-blockers** (e.g., propranolol).
+  - **Midodrine** for vasoconstriction.
+  - **Fludrocortisone** for volume expansion.
+  - **SSRIs** or **SNRIs** for anxiety or dysautonomia.
+
+### Question 8: What is the prognosis for adolescents with POTS?
+- **Answer:** Many improve with time, especially with non-pharmacologic interventions, though some have chronic symptoms.
+
+---
+
+# Summary Points for Teaching
+
+- POTS is a form of orthostatic intolerance with a hallmark HR increase upon standing.
+- More common in adolescents, particularly females.
+- Management emphasizes hydration, salt intake, and physical reconditioning, with medications as adjuncts.
+- Educate patients to avoid prolonged standing and rapid positional changes.
+
+---
