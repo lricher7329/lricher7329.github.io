@@ -7,9 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-        cases.qmd
-      - about.qmd
-
+      - href: cases.qmd
+        text: Cases
+      - href: about.qmd
+        text: About
 format:
   html:
     theme: cosmo
