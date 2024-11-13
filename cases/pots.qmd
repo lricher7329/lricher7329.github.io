@@ -1,5 +1,5 @@
 ---
-title: "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)"
+title: "Persistent dizziness"
 author: "Lawrence Richer"
 format:
   html:
@@ -11,7 +11,7 @@ format:
 
 # Clinical History
 
-![Dizzy Man](images/dizzy_man.png){height=50%}
+![](images/dizzy_man.png){height=25%}
 
 ## Presenting Complaint
 - 16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing.

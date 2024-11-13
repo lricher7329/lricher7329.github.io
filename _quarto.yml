@@ -3,15 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "lricher7329.github.io"
+  title: "ProjectX"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - href: cases.qmd
-        text: Cases
+      - sidebar:cases
       - href: about.qmd
         text: About
+    right: 
+      - icon: github
+        href: https://github.com/
+  sidebar:
+    id: cases
+    title: "Cases"
+    style: docked
+    background: light
+    collapse-level: 2
+    contents: 
+      - cases/leighs_disease.qmd
+      - cases/pots.qmd
+  page-footer: "Copyright 2024, Lawrence Richer"
+  repo-url: https://github.com/lricher7329/lricher7329.github.io
+  repo-actions: [edit, source, issue]
 format:
   html:
     theme: yeti

@@ -1,8 +1,12 @@
 ---
-title: "Case Presentation: Leigh's Disease"
+title: "Delayed development"
+author: "Lawrence Richer"
 format:
-  pptx: default
-  html: default
+  html:
+    toc: true
+    toc-depth: 2
+  pptx:
+    slide-level: 2
 ---
 
 # Slide 1: Case Presentation Overview
