@@ -32,7 +32,7 @@
     "href": "cases/pots.html",
     "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
     "section": "",
-    "text": "Clinical History\n\nPresenting Complaint\n\n16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing.\n\n\n\nHistory of Present Illness\n\nSymptoms began six months ago, progressively worsening.\nIncreased dizziness and palpitations in the morning.\nFatigue most days, affecting focus in school.\nNear-syncope episodes without loss of consciousness.\nEpisodes last from seconds to minutes, relieved by lying down.\n\n\n\nPast Medical History\n\nHistory of anxiety, no other significant medical conditions.\nNo syncope, seizure, or head trauma.\n\n\n\nFamily History\n\nMother has migraines; sibling with anxiety.\n\n\n\nSocial History\n\nHigh-achieving student; recent cutback in sports due to fatigue.\n\n\n\nReview of Systems\n\nDenies chest pain, shortness of breath, or visual changes.\nReports occasional abdominal discomfort and constipation.\n\n\n\n\n\nPhysical Examination\n\nSupine Vital Signs: HR 78 bpm, BP 110/70 mmHg\nStanding (after 10 min): HR 130 bpm, BP 108/68 mmHg\n\nHeart rate increase &gt; 40 bpm from supine to standing.\n\nNormal cardiac and respiratory exam.\nNeurological exam is normal.\nSkin: mildly cool extremities, no rash.\n\n\n\n\nIllustrative Questions and Answers\n\nQuestion 1: What is the most likely diagnosis?\n\nAnswer: Postural Orthostatic Tachycardia Syndrome (POTS), characterized by a heart rate increase upon standing without significant hypotension, often with symptoms like dizziness, fatigue, and palpitations.\n\n\n\nQuestion 2: What diagnostic criteria define POTS?\n\nAnswer:\n\nHeart rate increase of ≥30 bpm (or ≥40 bpm in adolescents) within 10 minutes of standing or head-up tilt, without significant hypotension.\nSymptoms lasting ≥6 months.\nExclusion of other causes.\n\n\n\n\nQuestion 3: What initial diagnostic tests should be considered?\n\nAnswer:\n\nOrthostatic Vital Signs\nHead-Up Tilt Test (HUTT)\nBlood Tests (to rule out secondary causes).\nECG (to rule out arrhythmias or structural abnormalities).\n\n\n\n\nQuestion 4: How does the Head-Up Tilt Test (HUTT) support the diagnosis of POTS?\n\nAnswer: In POTS, HUTT typically shows a marked HR increase without BP drop when tilted to 60–70 degrees, confirming orthostatic intolerance.\n\n\n\nQuestion 5: What are common comorbid conditions associated with POTS?\n\nAnswer: Anxiety, migraines, irritable bowel syndrome (IBS), and chronic fatigue syndrome.\n\n\n\nQuestion 6: What are key components of non-pharmacologic management for POTS?\n\nAnswer:\n\nIncreased fluid intake (2–3 liters/day) and salt supplementation.\nPhysical reconditioning, especially lower body strength.\nCompression garments.\nFrequent small meals to prevent postprandial symptoms.\nSleep hygiene and stress management.\n\n\n\n\nQuestion 7: When would pharmacologic management be considered, and what options are available?\n\nAnswer: For significant symptoms despite lifestyle changes. Options include:\n\nBeta-blockers (e.g., propranolol).\nMidodrine for vasoconstriction.\nFludrocortisone for volume expansion.\nSSRIs or SNRIs for anxiety or dysautonomia.\n\n\n\n\nQuestion 8: What is the prognosis for adolescents with POTS?\n\nAnswer: Many improve with time, especially with non-pharmacologic interventions, though some have chronic symptoms.\n\n\n\n\n\nSummary Points for Teaching\n\nPOTS is a form of orthostatic intolerance with a hallmark HR increase upon standing.\nMore common in adolescents, particularly females.\nManagement emphasizes hydration, salt intake, and physical reconditioning, with medications as adjuncts.\nEducate patients to avoid prolonged standing and rapid positional changes."
+    "text": "Dizzy Man\n\n\n\n\n\n16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing.\n\n\n\n\n\nSymptoms began six months ago, progressively worsening.\nIncreased dizziness and palpitations in the morning.\nFatigue most days, affecting focus in school.\nNear-syncope episodes without loss of consciousness.\nEpisodes last from seconds to minutes, relieved by lying down."
   },
   {
     "objectID": "cases/leighs_disease.html",
@@ -68,5 +68,96 @@
     "title": "About Clinical Teaching in Pediatric Neurology",
     "section": "How to Use This Resource",
     "text": "How to Use This Resource\nWe encourage educators to use this resource in bedside teaching sessions, case discussions, and team learning environments. Each case is presented in a format that allows flexibility—whether for structured group learning or for individual study. Each presentation includes discussion points that highlight key diagnostic and therapeutic considerations, as well as teaching tips to facilitate learning."
+  },
+  {
+    "objectID": "cases/pots.html#presenting-complaint",
+    "href": "cases/pots.html#presenting-complaint",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "",
+    "text": "16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing."
+  },
+  {
+    "objectID": "cases/pots.html#history-of-present-illness",
+    "href": "cases/pots.html#history-of-present-illness",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "",
+    "text": "Symptoms began six months ago, progressively worsening.\nIncreased dizziness and palpitations in the morning.\nFatigue most days, affecting focus in school.\nNear-syncope episodes without loss of consciousness.\nEpisodes last from seconds to minutes, relieved by lying down."
+  },
+  {
+    "objectID": "cases/pots.html#vital-signs",
+    "href": "cases/pots.html#vital-signs",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Vital Signs",
+    "text": "Vital Signs\n\nSupine Vital Signs: HR 78 bpm, BP 110/70 mmHg\nStanding (after 10 min): HR 130 bpm, BP 108/68 mmHg\n\nHeart rate increase &gt; 40 bpm from supine to standing."
+  },
+  {
+    "objectID": "cases/pots.html#physical-findings",
+    "href": "cases/pots.html#physical-findings",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Physical Findings",
+    "text": "Physical Findings\n\nNormal cardiac and respiratory exam.\nNeurological exam is normal.\nSkin: mildly cool extremities, no rash."
+  },
+  {
+    "objectID": "cases/pots.html#question-1-most-likely-diagnosis",
+    "href": "cases/pots.html#question-1-most-likely-diagnosis",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 1: Most Likely Diagnosis?",
+    "text": "Question 1: Most Likely Diagnosis?\n\nAnswer: Postural Orthostatic Tachycardia Syndrome (POTS)\n\nCharacterized by heart rate increase upon standing without significant hypotension.\nCommon symptoms include dizziness, fatigue, and palpitations."
+  },
+  {
+    "objectID": "cases/pots.html#question-2-diagnostic-criteria-for-pots",
+    "href": "cases/pots.html#question-2-diagnostic-criteria-for-pots",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 2: Diagnostic Criteria for POTS",
+    "text": "Question 2: Diagnostic Criteria for POTS\n\nHeart rate increase: ≥30 bpm (or ≥40 bpm in adolescents) within 10 minutes of standing.\nSymptoms: Lasting ≥6 months.\nExclusion of other causes: Rule out dehydration, medications, etc."
+  },
+  {
+    "objectID": "cases/pots.html#question-3-initial-diagnostic-tests",
+    "href": "cases/pots.html#question-3-initial-diagnostic-tests",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 3: Initial Diagnostic Tests",
+    "text": "Question 3: Initial Diagnostic Tests\n\nOrthostatic Vital Signs\nHead-Up Tilt Test (HUTT)\nBlood Tests: Rule out anemia, electrolyte imbalances, thyroid dysfunction.\nECG: Rule out arrhythmias or structural abnormalities."
+  },
+  {
+    "objectID": "cases/pots.html#question-4-role-of-head-up-tilt-test-hutt",
+    "href": "cases/pots.html#question-4-role-of-head-up-tilt-test-hutt",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 4: Role of Head-Up Tilt Test (HUTT)",
+    "text": "Question 4: Role of Head-Up Tilt Test (HUTT)\n\nAnswer: Confirms diagnosis by showing HR increase without BP drop when tilted to 60–70 degrees."
+  },
+  {
+    "objectID": "cases/pots.html#question-5-common-comorbid-conditions-with-pots",
+    "href": "cases/pots.html#question-5-common-comorbid-conditions-with-pots",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 5: Common Comorbid Conditions with POTS",
+    "text": "Question 5: Common Comorbid Conditions with POTS\n\nAnxiety, migraines, irritable bowel syndrome (IBS), chronic fatigue syndrome.\nRecognizing comorbidities aids holistic management."
+  },
+  {
+    "objectID": "cases/pots.html#question-6-non-pharmacologic-management",
+    "href": "cases/pots.html#question-6-non-pharmacologic-management",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 6: Non-Pharmacologic Management",
+    "text": "Question 6: Non-Pharmacologic Management\n\nHydration and salt: 2–3 liters of fluid and salt supplementation.\nPhysical reconditioning: Lower body strengthening exercises.\nCompression garments: Supports venous return.\nSmall, frequent meals: Prevents postprandial symptoms.\nSleep hygiene and stress management."
+  },
+  {
+    "objectID": "cases/pots.html#question-7-pharmacologic-management",
+    "href": "cases/pots.html#question-7-pharmacologic-management",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 7: Pharmacologic Management",
+    "text": "Question 7: Pharmacologic Management\n\nConsider if significant symptoms persist.\nBeta-blockers (e.g., propranolol) for tachycardia.\nMidodrine for vasoconstriction support.\nFludrocortisone for volume expansion.\nSSRIs/SNRIs for anxiety or dysautonomia symptoms."
+  },
+  {
+    "objectID": "cases/pots.html#question-8-prognosis-for-adolescents-with-pots",
+    "href": "cases/pots.html#question-8-prognosis-for-adolescents-with-pots",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Question 8: Prognosis for Adolescents with POTS",
+    "text": "Question 8: Prognosis for Adolescents with POTS\n\nMany improve with non-pharmacologic interventions.\nSome experience symptom reduction or resolution by adulthood."
+  },
+  {
+    "objectID": "cases/pots.html#management",
+    "href": "cases/pots.html#management",
+    "title": "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)",
+    "section": "Management",
+    "text": "Management\n\n\n\nManagement"
   }
 ]

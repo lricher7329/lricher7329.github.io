@@ -1,6 +1,6 @@
 ---
 title: "Case Presentation: Postural Orthostatic Tachycardia Syndrome (POTS)"
-author: "Your Name"
+author: "Lawrence Richer"
 format:
   html:
     toc: true
@@ -11,27 +11,33 @@ format:
 
 # Clinical History
 
-### Presenting Complaint
+![Dizzy Man](images/dizzy_man.png){height=50%}
+
+## Presenting Complaint
 - 16-year-old girl with dizziness, palpitations, and fatigue, especially upon standing.
 
-### History of Present Illness
+## History of Present Illness
 - Symptoms began six months ago, progressively worsening.
 - Increased dizziness and palpitations in the morning.
 - Fatigue most days, affecting focus in school.
 - Near-syncope episodes without loss of consciousness.
 - Episodes last from seconds to minutes, relieved by lying down.
 
-### Past Medical History
+---
+
+# Past Medical History
 - History of anxiety, no other significant medical conditions.
 - No syncope, seizure, or head trauma.
 
-### Family History
+# Family History
 - Mother has migraines; sibling with anxiety.
 
-### Social History
+# Social History
 - High-achieving student; recent cutback in sports due to fatigue.
 
-### Review of Systems
+---
+
+# Review of Systems
 - Denies chest pain, shortness of breath, or visual changes.
 - Reports occasional abdominal discomfort and constipation.
 
@@ -39,9 +45,12 @@ format:
 
 # Physical Examination
 
+## Vital Signs
 - **Supine Vital Signs:** HR 78 bpm, BP 110/70 mmHg
 - **Standing (after 10 min):** HR 130 bpm, BP 108/68 mmHg
   - Heart rate increase > 40 bpm from supine to standing.
+
+## Physical Findings
 - Normal cardiac and respiratory exam.
 - Neurological exam is normal.
 - Skin: mildly cool extremities, no rash.
@@ -50,45 +59,65 @@ format:
 
 # Illustrative Questions and Answers
 
-### Question 1: What is the most likely diagnosis?
-- **Answer:** Postural Orthostatic Tachycardia Syndrome (POTS), characterized by a heart rate increase upon standing without significant hypotension, often with symptoms like dizziness, fatigue, and palpitations.
+## Question 1: Most Likely Diagnosis?
+- **Answer:** Postural Orthostatic Tachycardia Syndrome (POTS)
+  - Characterized by heart rate increase upon standing without significant hypotension.
+  - Common symptoms include dizziness, fatigue, and palpitations.
 
-### Question 2: What diagnostic criteria define POTS?
-- **Answer:** 
-  - Heart rate increase of ≥30 bpm (or ≥40 bpm in adolescents) within 10 minutes of standing or head-up tilt, without significant hypotension.
-  - Symptoms lasting ≥6 months.
-  - Exclusion of other causes.
+---
 
-### Question 3: What initial diagnostic tests should be considered?
-- **Answer:**
-  - **Orthostatic Vital Signs**
-  - **Head-Up Tilt Test (HUTT)**
-  - **Blood Tests** (to rule out secondary causes).
-  - **ECG** (to rule out arrhythmias or structural abnormalities).
+## Question 2: Diagnostic Criteria for POTS
+- **Heart rate increase:** ≥30 bpm (or ≥40 bpm in adolescents) within 10 minutes of standing.
+- **Symptoms:** Lasting ≥6 months.
+- **Exclusion of other causes:** Rule out dehydration, medications, etc.
 
-### Question 4: How does the Head-Up Tilt Test (HUTT) support the diagnosis of POTS?
-- **Answer:** In POTS, HUTT typically shows a marked HR increase without BP drop when tilted to 60–70 degrees, confirming orthostatic intolerance.
+---
 
-### Question 5: What are common comorbid conditions associated with POTS?
-- **Answer:** Anxiety, migraines, irritable bowel syndrome (IBS), and chronic fatigue syndrome.
+## Question 3: Initial Diagnostic Tests
+- **Orthostatic Vital Signs**
+- **Head-Up Tilt Test (HUTT)**
+- **Blood Tests:** Rule out anemia, electrolyte imbalances, thyroid dysfunction.
+- **ECG:** Rule out arrhythmias or structural abnormalities.
 
-### Question 6: What are key components of non-pharmacologic management for POTS?
-- **Answer:**
-  - **Increased fluid intake** (2–3 liters/day) and **salt supplementation.**
-  - **Physical reconditioning,** especially lower body strength.
-  - **Compression garments.**
-  - **Frequent small meals** to prevent postprandial symptoms.
-  - **Sleep hygiene** and **stress management.**
+---
 
-### Question 7: When would pharmacologic management be considered, and what options are available?
-- **Answer:** For significant symptoms despite lifestyle changes. Options include:
-  - **Beta-blockers** (e.g., propranolol).
-  - **Midodrine** for vasoconstriction.
-  - **Fludrocortisone** for volume expansion.
-  - **SSRIs** or **SNRIs** for anxiety or dysautonomia.
+## Question 4: Role of Head-Up Tilt Test (HUTT)
+- **Answer:** Confirms diagnosis by showing HR increase without BP drop when tilted to 60–70 degrees.
 
-### Question 8: What is the prognosis for adolescents with POTS?
-- **Answer:** Many improve with time, especially with non-pharmacologic interventions, though some have chronic symptoms.
+---
+
+## Question 5: Common Comorbid Conditions with POTS
+- Anxiety, migraines, irritable bowel syndrome (IBS), chronic fatigue syndrome.
+- Recognizing comorbidities aids holistic management.
+
+---
+
+## Question 6: Non-Pharmacologic Management
+- **Hydration and salt:** 2–3 liters of fluid and salt supplementation.
+- **Physical reconditioning:** Lower body strengthening exercises.
+- **Compression garments:** Supports venous return.
+- **Small, frequent meals:** Prevents postprandial symptoms.
+- **Sleep hygiene and stress management.**
+
+---
+
+## Question 7: Pharmacologic Management
+- Consider if significant symptoms persist.
+- **Beta-blockers** (e.g., propranolol) for tachycardia.
+- **Midodrine** for vasoconstriction support.
+- **Fludrocortisone** for volume expansion.
+- **SSRIs/SNRIs** for anxiety or dysautonomia symptoms.
+
+---
+
+## Management
+![Management](images/pots_management.png)
+
+---
+
+## Question 8: Prognosis for Adolescents with POTS
+- Many improve with non-pharmacologic interventions.
+- Some experience symptom reduction or resolution by adulthood.
 
 ---
 
@@ -96,7 +125,7 @@ format:
 
 - POTS is a form of orthostatic intolerance with a hallmark HR increase upon standing.
 - More common in adolescents, particularly females.
-- Management emphasizes hydration, salt intake, and physical reconditioning, with medications as adjuncts.
-- Educate patients to avoid prolonged standing and rapid positional changes.
+- Emphasis on hydration, salt intake, physical reconditioning, and adjunct medications if needed.
+- Educate on avoiding prolonged standing and rapid positional changes.
 
 ---
