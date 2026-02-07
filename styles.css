@@ -9,14 +9,32 @@
 /* ---- Hero Banner ---- */
 
 .hero-banner {
-  background: linear-gradient(135deg, #1a365d 0%, #2c5282 60%, #2b6cb0 100%);
+  position: relative;
+  background-image: url('banner.jpeg');
+  background-size: cover;
+  background-position: center;
   color: #ffffff;
   padding: 5rem 2rem;
   text-align: center;
   margin-top: -1px;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(10, 25, 50, 0.55);
 }
 
 .hero-content {
+  position: relative;
+  z-index: 1;
   max-width: 800px;
   margin: 0 auto;
 }

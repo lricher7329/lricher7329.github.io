@@ -5,6 +5,7 @@ page-layout: custom
 
 ```{=html}
 <div class="hero-banner">
+  <div class="hero-overlay"></div>
   <div class="hero-content">
     <h1 class="hero-name">Lawrence Richer</h1>
     <p class="hero-title">MD, FRCPC</p>
