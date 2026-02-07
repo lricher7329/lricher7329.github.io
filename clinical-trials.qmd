@@ -2,11 +2,53 @@
 title: "Clinical Trials"
 ---
 
-Alberta has the talent, the patients, and the institutional will to become a national leader in clinical trials. What has been missing is the connective infrastructure — the systems, metrics, and coordination that turn individual site activity into a cohesive provincial engine. That is what I am building.
+## RECLAIM-TaurineLC
+
+::: {.trial-highlight}
+
+**Taurine Supplementation as a Novel Therapeutic Approach for Neurocognitive Symptoms in Long COVID**
+
+RECLAIM-TaurineLC is a Phase 2/3, randomized, quadruple-blind, placebo-controlled trial investigating whether taurine supplementation can improve fatigue and cognitive dysfunction in adults living with Long COVID. This is my primary clinical trial and represents a convergence of my interests in autonomic dysfunction, post-viral syndromes, and rigorous trial methodology.
+
+::: {.trial-details}
+
+| | |
+|---|---|
+| **Registry** | [NCT06721949](https://clinicaltrials.gov/study/NCT06721949) |
+| **Phase** | Phase 2/3 |
+| **Design** | Randomized, parallel, quadruple-blind, placebo-controlled |
+| **Intervention** | Taurine 1350 mg/day vs. placebo for 12 weeks |
+| **Enrollment** | 300 participants |
+| **Status** | Recruiting |
+| **Sponsor** | University of Alberta |
+| **Funder** | Canadian Institutes of Health Research (CIHR) |
+| **PI** | Lawrence Richer, MD, MSc |
+
+:::
+
+**Primary Outcomes**
+
+- Change in fatigue severity (Modified Fatigue Impact Scale)
+- Change in cognitive function (Trail-Making Tests A & B ratio)
+
+**Sites**
+
+- University of Alberta Hospital, Edmonton (recruiting)
+- University Health Network, Toronto
+- Institut de recherches cliniques de Montral
+- CIUSSSE-CHUS, Sherbrooke
+
+**Contact:** [taurineLC@ualberta.ca](mailto:taurineLC@ualberta.ca)
+
+:::
 
 ---
 
-## The Refocus Initiative
+## Clinical Trials Acceleration
+
+Alberta has the talent, the patients, and the institutional will to become a national leader in clinical trials. What has been missing is the connective infrastructure — the systems, metrics, and coordination that turn individual site activity into a cohesive provincial engine. That is what I am building.
+
+### The Refocus Initiative
 
 Refocus Clinical Trials is the parent strategic initiative driving clinical trials acceleration in Alberta. It is an integrated program that connects infrastructure investment, technology platforms, national partnerships, and methodology expertise into a single coherent vision.
 
@@ -17,9 +59,7 @@ Refocus encompasses several interconnected projects:
 - **Metricis** — the analytics platform providing real-time trial metrics
 - **Methodology programs** — enrichment designs, adaptive trials, AI-enhanced data strategies
 
----
-
-## CFI-CTAP
+### CFI-CTAP
 
 The **Clinical Trials Acceleration Platform (CFI-CTAP)** is a major Canada Foundation for Innovation infrastructure grant application designed to build the physical and digital infrastructure needed to run clinical trials faster, more efficiently, and at greater scale across Alberta.
 
@@ -30,9 +70,7 @@ CFI-CTAP supports:
 - Data integration and analytics capabilities
 - Training and capacity-building for clinical trial personnel
 
----
-
-## Alberta FAST
+### Alberta FAST
 
 **Alberta FAST** (Facilitated Access to Studies and Trials) is a sub-initiative within Refocus aimed at streamlining the pathway from trial concept to patient enrollment. Alberta FAST addresses the operational bottlenecks — contract negotiation, ethics review timelines, site activation — that slow trial startup.
 

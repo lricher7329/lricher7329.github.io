@@ -252,6 +252,33 @@
   margin-bottom: 0.25rem;
 }
 
+/* ---- Trial Highlight ---- */
+
+.trial-highlight {
+  background: #f7fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #2c5282;
+  border-radius: 8px;
+  padding: 1.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.trial-highlight > p:first-of-type {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin-bottom: 1rem;
+}
+
+.trial-details table {
+  font-size: 0.95rem;
+  margin: 1rem 0;
+}
+
+.trial-details td:first-child {
+  white-space: nowrap;
+  padding-right: 1.5rem;
+}
+
 /* ---- Research Projects ---- */
 
 .research-projects {
