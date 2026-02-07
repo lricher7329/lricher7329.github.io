@@ -10,6 +10,7 @@ page-layout: custom
     <h1 class="hero-name">Lawrence Richer</h1>
     <p class="hero-title">MD, FRCPC</p>
     <p class="hero-subtitle">Associate Dean (Research), College of Health Sciences<br>
+    Center Director, NACTRC<br>
     University of Alberta</p>
     <p class="hero-tagline">Clinician-scientist building the systems, partnerships, and platforms that accelerate clinical research from discovery to patient impact.</p>
   </div>

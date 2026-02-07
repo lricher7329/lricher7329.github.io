@@ -4,7 +4,7 @@ title: "About"
 
 ## Lawrence Richer, MD, FRCPC
 
-I am a pediatric neurologist, clinician-scientist, and Associate Dean (Research) in the College of Health Sciences at the University of Alberta. My work sits at the intersection of clinical medicine, research strategy, and systems design — building infrastructure that helps researchers and clinicians translate discoveries into better patient outcomes.
+I am a pediatric neurologist, clinician-scientist, Associate Dean (Research) in the College of Health Sciences, and Center Director of the Northern Alberta Clinical Trials and Research Centre (NACTRC) at the University of Alberta. My work sits at the intersection of clinical medicine, research strategy, and systems design — building infrastructure that helps researchers and clinicians translate discoveries into better patient outcomes.
 
 ### Institutional Leadership
 
@@ -21,7 +21,7 @@ I serve on numerous institutional, provincial, and national committees that shap
 
 **National**
 
-- NACTRC (Northern Alberta Clinical Trials and Research Centre) — Board member
+- NACTRC (Northern Alberta Clinical Trials and Research Centre) — Center Director
 - CANTRAIN — Canadian clinical trials training network
 - CIHR College of Reviewers — peer review for clinical trial grants
 - ACRC Executive Committee — Alberta Clinical Research Consortium

@@ -46,11 +46,35 @@ RECLAIM-TaurineLC is a Phase 2/3, randomized, quadruple-blind, placebo-controlle
 
 ## Clinical Trials Acceleration
 
-Alberta has the talent, the patients, and the institutional will to become a national leader in clinical trials. What has been missing is the connective infrastructure — the systems, metrics, and coordination that turn individual site activity into a cohesive provincial engine. That is what I am building.
+Clinical trials acceleration is a core pillar of my work. I lead two complementary organizations that together form the operational backbone of clinical trials in northern Alberta, and I am driving a strategic initiative to connect them into a provincial engine.
+
+### UACT — University of Alberta Clinical Trials
+
+[University of Alberta Clinical Trials (UACT)](https://www.ualberta.ca/en/health-sciences/research/university-of-alberta-clinical-trials/index.html) coordinates the university's clinical research ecosystem. UACT provides the institutional framework for conducting trials across all ages and therapeutic areas — from pharmaceuticals and digital devices to exercise interventions and continuing care. The Clinical Trials Office (CTO) serves as its operational secretariat.
+
+Key UACT capabilities include:
+
+- State-of-the-art clinical trial facilities and specialized personnel
+- Advanced electronic data capture and trial management systems
+- Investigator-initiated trial development support for national grant competitions
+- The **Indigenous Clinical Trials Unit (ICTU)** — the first of its kind in Canada, empowering Indigenous-led clinical research
+
+### NACTRC — Northern Alberta Clinical Trials and Research Centre
+
+I serve as **Center Director** of [NACTRC](https://nactrc.ca/), a joint venture between the University of Alberta and Alberta Health Services established in 1999. NACTRC provides clinical research administration, operations, and support across the Edmonton Zone.
+
+NACTRC's mandate:
+
+- Develop a comprehensive clinical research administration and support framework for the University of Alberta and AHS Edmonton Zone
+- Implement systems to improve the quality, quantity, and efficiency of clinical research
+- Expand clinical research support capacity and streamline study startup
+- Serve sponsors and investigators across industry and investigator-initiated trials
+
+Together, UACT and NACTRC form an integrated ecosystem: UACT provides institutional strategy and coordination, while NACTRC delivers operational infrastructure and site-level support.
 
 ### The Refocus Initiative
 
-Refocus Clinical Trials is the parent strategic initiative driving clinical trials acceleration in Alberta. It is an integrated program that connects infrastructure investment, technology platforms, national partnerships, and methodology expertise into a single coherent vision.
+Refocus Clinical Trials is the parent strategic initiative driving clinical trials acceleration across Alberta. It connects infrastructure investment, technology platforms, national partnerships, and methodology expertise into a single coherent vision.
 
 Refocus encompasses several interconnected projects:
 
@@ -73,14 +97,6 @@ CFI-CTAP supports:
 ### Alberta FAST
 
 **Alberta FAST** (Facilitated Access to Studies and Trials) is a sub-initiative within Refocus aimed at streamlining the pathway from trial concept to patient enrollment. Alberta FAST addresses the operational bottlenecks — contract negotiation, ethics review timelines, site activation — that slow trial startup.
-
----
-
-## National Partnerships
-
-### NACTRC
-
-The **Northern Alberta Clinical Trials and Research Centre (NACTRC)** is the regional clinical trials network connecting sites, sponsors, and researchers across northern Alberta. I serve on the NACTRC board and contribute to strategic direction, technology integration, and site development.
 
 ---
 
