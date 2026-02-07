@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "systems.html",
+    "href": "systems.html",
+    "title": "Systems & Platforms",
+    "section": "",
+    "text": "I design and build technology platforms that address real, unsolved problems in research management, clinical trial operations, and health data. These systems are built to be institutionally adoptable and scalable.\n\n\n\nCatalyst\nResearch Information Management System (RIMS)\nA comprehensive platform for managing researcher profiles, tracking grants across their lifecycle, and generating strategic dashboards for institutional decision-making. Catalyst consolidates fragmented research data into a single operational layer.\n\n\nResearcher profile management\nGrant tracking and lifecycle monitoring\nStrategic analytics dashboards\nInstitutional reporting\n\n\nStatus: Production development. Project manager hired. Weekly development cycles.\n\n\nMetricis\nMetrics & Analytics Platform\nPurpose-built analytics platform supporting the Refocus Clinical Trials initiative. Metricis provides real-time metrics on trial activity, site performance, and research portfolio health across Alberta.\n\n\nClinical trial performance metrics\nSite activity monitoring\nPortfolio analytics\nBenchmarking dashboards\n\n\nStatus: Active development. Integrated with Refocus Clinical Trials.\n\n\nAegisText / Janus\nAI-Powered Text Analysis Platform\nAn NLP pipeline for analyzing clinical and research documents at scale. AegisText handles document ingestion and classification; Janus provides the natural language processing engine for entity extraction, summarization, and pattern detection.\n\n\nClinical document analysis\nEntity extraction and classification\nAI-assisted protocol review\nText summarization at scale\n\n\nStatus: Active development. Demo AI-driven protocol session completed.\n\n\nCompass\nStrategic Navigation & Decision Support\nA decision-support tool for research leaders navigating complex institutional landscapes. Compass synthesizes project data, timelines, and strategic priorities to surface what matters most.\n\n\nStrategic priority mapping\nProject dependency visualization\nDecision-support recommendations\nPortfolio risk assessment\n\n\nStatus: Active development. Project manager hiring in progress.\n\n\nBeTheCure-Match\nClinical Trial Matching Platform\nA patient-facing platform that matches individuals to relevant clinical trials based on their clinical profile, location, and eligibility criteria. Designed to improve trial recruitment and reduce barriers to participation.\n\n\nPatient-trial matching algorithm\nEligibility screening\nGeographic and site-level filtering\nRecruitment pipeline analytics\n\n\nStatus: Active development."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A selection of publications organized by research theme. Full publication list available on Google Scholar and PubMed."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nAutonomic Disorders\nPublication list in progress. Check back for updates.\n\n\nRare Pediatric Diseases\nPublication list in progress. Check back for updates.\n\n\nHeadache & Migraine\nPublication list in progress. Check back for updates.\n\n\nClinical Trials Methodology\nPublication list in progress. Check back for updates.\n\n\nHealth Data & AI\nPublication list in progress. Check back for updates."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\nActive manuscripts span several research themes:\n\nBotox for chronic migraine — real-world evidence study\nMRI findings in POTS\nAutonomic dysfunction in Prader-Willi Syndrome\nEnrichment trial design methods\nPost-stroke care pathways\nKetorolac RCT results\nMOSAIC study results\nPediatric migraine neuroimaging\nClinical trial supply chain analysis\nDiversity in clinical trials\n\n\n\n\n\n\n\n\nNoteFuture Integration\n\n\n\nThis page is structured for integration with a .bib bibliography file. Publications will be automatically rendered from BibTeX entries grouped by theme, with full citation formatting and links to DOIs."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Lawrence Richer",
+    "section": "What I Do",
+    "text": "What I Do\n\n\nResearch Programs\nFive interconnected research themes spanning autonomic disorders, rare pediatric diseases, headache medicine, clinical trials methodology, and health data science. Grounded in patient care, powered by rigorous methods.\nExplore Research →\n\n\nSystems & Platforms\nPurpose-built technology platforms that solve real problems in research management, trial matching, metrics, and AI-driven text analysis. Designed to scale across institutions.\nView Systems →\n\n\nClinical Trials Acceleration\nLeading Alberta’s vision for faster, smarter clinical trials through the Refocus initiative, CFI infrastructure, national networks, and embedded methodology expertise.\nLearn More →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans five interconnected themes, united by a commitment to rigorous methodology, patient-centered design, and translational impact."
+  },
+  {
+    "objectID": "research.html#autonomic-disorders",
+    "href": "research.html#autonomic-disorders",
+    "title": "Research",
+    "section": "Autonomic Disorders",
+    "text": "Autonomic Disorders\nUnderstanding the mechanisms and improving the diagnosis and management of autonomic nervous system dysfunction in children and adults.\n\n\nAutonomic Lab — Core research laboratory for autonomic function testing, including cardiovascular autonomic reflex testing, tilt-table studies, and quantitative sudomotor axon reflex testing\nARRO Study — Investigating autonomic regulation and outcomes\nMRI POTS — Neuroimaging study of postural orthostatic tachycardia syndrome\nPWS ANS — Autonomic dysfunction in Prader-Willi Syndrome\nLong COVID MRI Study — Characterizing autonomic and neurological sequelae of post-acute COVID-19\nANS Bayesian Analysis — Developing Bayesian statistical methods for autonomic data"
+  },
+  {
+    "objectID": "research.html#rare-pediatric-diseases",
+    "href": "research.html#rare-pediatric-diseases",
+    "title": "Research",
+    "section": "Rare Pediatric Diseases",
+    "text": "Rare Pediatric Diseases\nAdvancing diagnosis and treatment for children with rare neurological and metabolic conditions through clinical trials and collaborative networks.\n\n\nTaurineLC — Phase II clinical trial of taurine supplementation for long-chain fatty acid oxidation disorders (LCFAO), including a pediatric extension study\nRareKidsCan — National rare pediatric diseases research network building collaborative infrastructure for multi-site rare disease trials\nGene Therapy Initiative — Emerging gene therapy research in pediatric neurological conditions\nCLCN Pediatric Taurine Trial — Engagement with Canadian Lifelong Conditions Networks for pediatric taurine trial expansion"
+  },
+  {
+    "objectID": "research.html#headache-migraine",
+    "href": "research.html#headache-migraine",
+    "title": "Research",
+    "section": "Headache & Migraine",
+    "text": "Headache & Migraine\nClinical and epidemiological research in pediatric and adult headache disorders, including clinical trials and real-world evidence studies.\n\n\nAbbVie Atogepant Trial — Clinical trial of atogepant for migraine prevention\nPfizer Rimegepant Trial — Clinical trial of rimegepant for migraine treatment\nBotox Chronic Migraine RWE — Real-world evidence study of botulinum toxin for chronic migraine\nMRI Migraine — Neuroimaging in migraine\nCochrane Migraine Systematic Review — Systematic review of migraine interventions\nEnrichment Trial Designs — Methods manuscript on enrichment designs for headache trials"
+  },
+  {
+    "objectID": "research.html#clinical-trials-methodology",
+    "href": "research.html#clinical-trials-methodology",
+    "title": "Research",
+    "section": "Clinical Trials Methodology",
+    "text": "Clinical Trials Methodology\nDeveloping and validating novel methods for designing, conducting, and analyzing clinical trials — with a focus on efficiency, adaptive designs, and equity.\n\n\nSHIELD Study — Clinical methodology study\nMOSAIC Study — Multi-site methodology study\nDiversity in Clinical Trials — Research on equity, diversity, and inclusion in trial recruitment and design\nAI-Enhanced Clinical Trial Data Strategy — Developing AI approaches to improve trial data quality and efficiency\nEnrichment Trial Designs — Methodological framework for enrichment strategies in clinical trials\nCIHR Grant Success Analysis — Analyzing factors that predict grant success at CIHR"
+  },
+  {
+    "objectID": "research.html#health-data-ai",
+    "href": "research.html#health-data-ai",
+    "title": "Research",
+    "section": "Health Data & AI",
+    "text": "Health Data & AI\nLeveraging health data platforms, AI/NLP tools, and analytics to accelerate research and improve institutional decision-making.\n\n\nPrairiesCan Health Data Platform — Provincial health data platform initiative\nData Alberta Initiative — Provincial data strategy for health research\nAegisText / Janus — AI-powered text analysis and NLP pipeline for clinical documents\nBayesian Deep Learning — Exploring Bayesian neural network methods for clinical prediction\nCIHR FDD Analysis — Analysis of CIHR Funding Decisions Database"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Masters Student\nGraduate research in pediatric neurology.\n\n\n\nMasters Student\nGraduate research in pediatric neurology.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program."
+  },
+  {
+    "objectID": "team.html#current-trainees",
+    "href": "team.html#current-trainees",
+    "title": "Team",
+    "section": "",
+    "text": "Masters Student\nGraduate research in pediatric neurology.\n\n\n\nMasters Student\nGraduate research in pediatric neurology.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program.\n\n\n\nResearch Trainee\nResearch training program."
+  },
+  {
+    "objectID": "team.html#key-collaborators",
+    "href": "team.html#key-collaborators",
+    "title": "Team",
+    "section": "Key Collaborators",
+    "text": "Key Collaborators\nI work within a broad collaborative network across the University of Alberta, Alberta Health Services, and national and international partners.\n\nInstitutional\n\nCollege of Health Sciences — research strategy, hub oversight, and faculty support\nWomen and Children’s Health Research Institute (WCHRI) — pediatric research infrastructure\nStollery Children’s Hospital — clinical programs in autonomic disorders and headache\nClinical Research Institute (CRI) — institutional clinical research strategy\n\n\n\nProvincial & National\n\nNACTRC — Northern Alberta Clinical Trials and Research Centre\nACRC — Alberta Clinical Research Consortium\nCANTRAIN — Canadian clinical trials training network\nRareKidsCan — National rare pediatric diseases research network\nCIHR College of Reviewers — national peer review\n\n\n\nInternational\n\nAPRU — Asia-Pacific Research Universities network\nUniversity of Queensland — collaborative research partnership\nUniversity of Pennsylvania — proton beam therapy partnership"
+  },
+  {
+    "objectID": "team.html#join-the-team",
+    "href": "team.html#join-the-team",
+    "title": "Team",
+    "section": "Join the Team",
+    "text": "Join the Team\nI welcome inquiries from prospective graduate students, postdoctoral fellows, and research trainees interested in pediatric neurology, clinical trials methodology, autonomic disorders, or health systems research. Contact me at lricher@ualberta.ca."
+  },
+  {
+    "objectID": "clinical-trials.html",
+    "href": "clinical-trials.html",
+    "title": "Clinical Trials",
+    "section": "",
+    "text": "Alberta has the talent, the patients, and the institutional will to become a national leader in clinical trials. What has been missing is the connective infrastructure — the systems, metrics, and coordination that turn individual site activity into a cohesive provincial engine. That is what I am building."
+  },
+  {
+    "objectID": "clinical-trials.html#the-refocus-initiative",
+    "href": "clinical-trials.html#the-refocus-initiative",
+    "title": "Clinical Trials",
+    "section": "The Refocus Initiative",
+    "text": "The Refocus Initiative\nRefocus Clinical Trials is the parent strategic initiative driving clinical trials acceleration in Alberta. It is an integrated program that connects infrastructure investment, technology platforms, national partnerships, and methodology expertise into a single coherent vision.\nRefocus encompasses several interconnected projects:\n\nCFI-CTAP — the primary infrastructure grant vehicle\nAlberta FAST — the provincial acceleration framework\nMetricis — the analytics platform providing real-time trial metrics\nMethodology programs — enrichment designs, adaptive trials, AI-enhanced data strategies"
+  },
+  {
+    "objectID": "clinical-trials.html#cfi-ctap",
+    "href": "clinical-trials.html#cfi-ctap",
+    "title": "Clinical Trials",
+    "section": "CFI-CTAP",
+    "text": "CFI-CTAP\nThe Clinical Trials Acceleration Platform (CFI-CTAP) is a major Canada Foundation for Innovation infrastructure grant application designed to build the physical and digital infrastructure needed to run clinical trials faster, more efficiently, and at greater scale across Alberta.\nCFI-CTAP supports:\n\nShared clinical trial infrastructure across Edmonton and Calgary\nTechnology platforms for trial operations (Catalyst, Metricis)\nData integration and analytics capabilities\nTraining and capacity-building for clinical trial personnel"
+  },
+  {
+    "objectID": "clinical-trials.html#alberta-fast",
+    "href": "clinical-trials.html#alberta-fast",
+    "title": "Clinical Trials",
+    "section": "Alberta FAST",
+    "text": "Alberta FAST\nAlberta FAST (Facilitated Access to Studies and Trials) is a sub-initiative within Refocus aimed at streamlining the pathway from trial concept to patient enrollment. Alberta FAST addresses the operational bottlenecks — contract negotiation, ethics review timelines, site activation — that slow trial startup."
+  },
+  {
+    "objectID": "clinical-trials.html#national-partnerships",
+    "href": "clinical-trials.html#national-partnerships",
+    "title": "Clinical Trials",
+    "section": "National Partnerships",
+    "text": "National Partnerships\n\nNACTRC\nThe Northern Alberta Clinical Trials and Research Centre (NACTRC) is the regional clinical trials network connecting sites, sponsors, and researchers across northern Alberta. I serve on the NACTRC board and contribute to strategic direction, technology integration, and site development.\n\n\nPrimeSite\nPrimeSite is an NACTRC initiative to position Alberta’s clinical trial sites as preferred partners for industry-sponsored trials through standardized quality metrics, responsive site activation, and competitive feasibility data."
+  },
+  {
+    "objectID": "clinical-trials.html#trial-methodology",
+    "href": "clinical-trials.html#trial-methodology",
+    "title": "Clinical Trials",
+    "section": "Trial Methodology",
+    "text": "Trial Methodology\nAcross all of these initiatives, I maintain an active research program in clinical trial methodology itself:\n\nEnrichment trial designs — using patient selection strategies to improve trial efficiency and reduce sample sizes\nAdaptive trial methods — Bayesian and response-adaptive approaches to trial design\nAI-enhanced trial data — developing NLP and machine learning tools to improve data quality, site monitoring, and signal detection\nDiversity in clinical trials — research on improving equity, diversity, and inclusion in trial recruitment, particularly for Indigenous communities and underrepresented populations"
+  },
+  {
+    "objectID": "clinical-trials.html#clinical-trials-funding",
+    "href": "clinical-trials.html#clinical-trials-funding",
+    "title": "Clinical Trials",
+    "section": "Clinical Trials Funding",
+    "text": "Clinical Trials Funding\nI contribute to broader efforts to expand clinical trials funding in Canada:\n\nClinical Trials Funding Expansion Initiative — strategic initiative to increase federal and provincial investment in clinical trial infrastructure\nTri-Agency Success Initiative — institutional program to improve success rates on Tri-Council grant competitions\nKaye Innovation Fund — letter of intent for the Kaye Edmonton Clinic Research Fund"
+  },
+  {
+    "objectID": "clinical-trials.html#vision",
+    "href": "clinical-trials.html#vision",
+    "title": "Clinical Trials",
+    "section": "Vision",
+    "text": "Vision\nThe goal is not more trials. It is better trials — faster to activate, more efficient to run, more representative of the patients they serve, and more impactful in their outcomes. Alberta can be the province that demonstrates how a coordinated, technology-enabled clinical trials ecosystem works."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a pediatric neurologist, clinician-scientist, and Associate Dean (Research) in the College of Health Sciences at the University of Alberta. My work sits at the intersection of clinical medicine, research strategy, and systems design — building infrastructure that helps researchers and clinicians translate discoveries into better patient outcomes.\n\n\nAs Associate Dean (Research), I oversee research strategy, funding development, and infrastructure across the College of Health Sciences. This includes:\n\nClinical Research Institute (CRI) — strategic direction and operational oversight for institutional clinical research\nAI + Health Hub — co-leading the University’s initiative to embed artificial intelligence in health research\nKipnes Research Institute — contributing to the launch and strategic planning of this new research institute\nResearch Hubs — oversight of the Regenerative Medicine Hub, Healthy Aging Hub, and Collective Health Research Hub\n\n\n\n\nI serve on numerous institutional, provincial, and national committees that shape research policy and infrastructure:\nNational\n\nNACTRC (Northern Alberta Clinical Trials and Research Centre) — Board member\nCANTRAIN — Canadian clinical trials training network\nCIHR College of Reviewers — peer review for clinical trial grants\nACRC Executive Committee — Alberta Clinical Research Consortium\n\nInstitutional\n\nCouncil of Associate Deans Research (CADR)\nUniversity Research Advisory Committee (URAC)\nUniversity Research Infrastructure Advisory Committee (URIAC)\nCenters and Institutes Committee\nResearch Technology Steering Committee (RTSC)\nFuture Impact Council of the Stollery (FICS)\nKaye Fund Steering Committee\nIPG Infrastructure Working Group\nStrategic Research Investment Program (SRIP)\nClinical Trials Advisory Committee (CTAC)\nDigital Health Working Group\nData Safety Monitoring Board (DSMB)\n\n\n\n\nI maintain an active clinical practice in pediatric neurology at the Stollery Children’s Hospital, with subspecialty expertise in:\n\nAutonomic disorders — including POTS, autonomic neuropathies, and dysautonomia\nHeadache medicine — pediatric and adolescent migraine, chronic daily headache\nRare neurological diseases — metabolic and genetic conditions affecting the nervous system\n\nI also provide medico-legal expert opinions for the Canadian Medical Protective Association (CMPA) in pediatric neurology.\n\n\n\nTeaching is central to my academic identity. I contribute through:\n\nHybrid Pediatric Neurology Case Rounds\nNeuroscience Grand Rounds\nNeuro 210 — medical school neuroscience teaching\nClinical Trials Workshop — methodology education for trainees and faculty\nDirect supervision of graduate students and research trainees (see Team)\n\n\n\n\n\nMD — University of Alberta\nFRCPC — Pediatric Neurology, Royal College of Physicians and Surgeons of Canada\nFellowship training in pediatric neurology with subspecialty focus in autonomic disorders and headache medicine\n\n\n\n\n\nEmail: lricher@ualberta.ca\nInstitution: College of Health Sciences, University of Alberta, Edmonton, Alberta, Canada\nGitHub: github.com/lricher7329"
+  },
+  {
+    "objectID": "about.html#lawrence-richer-md-frcpc",
+    "href": "about.html#lawrence-richer-md-frcpc",
+    "title": "About",
+    "section": "",
+    "text": "I am a pediatric neurologist, clinician-scientist, and Associate Dean (Research) in the College of Health Sciences at the University of Alberta. My work sits at the intersection of clinical medicine, research strategy, and systems design — building infrastructure that helps researchers and clinicians translate discoveries into better patient outcomes.\n\n\nAs Associate Dean (Research), I oversee research strategy, funding development, and infrastructure across the College of Health Sciences. This includes:\n\nClinical Research Institute (CRI) — strategic direction and operational oversight for institutional clinical research\nAI + Health Hub — co-leading the University’s initiative to embed artificial intelligence in health research\nKipnes Research Institute — contributing to the launch and strategic planning of this new research institute\nResearch Hubs — oversight of the Regenerative Medicine Hub, Healthy Aging Hub, and Collective Health Research Hub\n\n\n\n\nI serve on numerous institutional, provincial, and national committees that shape research policy and infrastructure:\nNational\n\nNACTRC (Northern Alberta Clinical Trials and Research Centre) — Board member\nCANTRAIN — Canadian clinical trials training network\nCIHR College of Reviewers — peer review for clinical trial grants\nACRC Executive Committee — Alberta Clinical Research Consortium\n\nInstitutional\n\nCouncil of Associate Deans Research (CADR)\nUniversity Research Advisory Committee (URAC)\nUniversity Research Infrastructure Advisory Committee (URIAC)\nCenters and Institutes Committee\nResearch Technology Steering Committee (RTSC)\nFuture Impact Council of the Stollery (FICS)\nKaye Fund Steering Committee\nIPG Infrastructure Working Group\nStrategic Research Investment Program (SRIP)\nClinical Trials Advisory Committee (CTAC)\nDigital Health Working Group\nData Safety Monitoring Board (DSMB)\n\n\n\n\nI maintain an active clinical practice in pediatric neurology at the Stollery Children’s Hospital, with subspecialty expertise in:\n\nAutonomic disorders — including POTS, autonomic neuropathies, and dysautonomia\nHeadache medicine — pediatric and adolescent migraine, chronic daily headache\nRare neurological diseases — metabolic and genetic conditions affecting the nervous system\n\nI also provide medico-legal expert opinions for the Canadian Medical Protective Association (CMPA) in pediatric neurology.\n\n\n\nTeaching is central to my academic identity. I contribute through:\n\nHybrid Pediatric Neurology Case Rounds\nNeuroscience Grand Rounds\nNeuro 210 — medical school neuroscience teaching\nClinical Trials Workshop — methodology education for trainees and faculty\nDirect supervision of graduate students and research trainees (see Team)\n\n\n\n\n\nMD — University of Alberta\nFRCPC — Pediatric Neurology, Royal College of Physicians and Surgeons of Canada\nFellowship training in pediatric neurology with subspecialty focus in autonomic disorders and headache medicine\n\n\n\n\n\nEmail: lricher@ualberta.ca\nInstitution: College of Health Sciences, University of Alberta, Edmonton, Alberta, Canada\nGitHub: github.com/lricher7329"
+  }
+]

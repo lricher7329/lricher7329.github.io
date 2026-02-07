@@ -1,19 +1,74 @@
 ---
-title: "About Clinical Teaching in Pediatric Neurology"
+title: "About"
 ---
 
-Welcome to Clinical Teaching in Pediatric Neurology, a dedicated platform designed to enrich clinical education in pediatric neurology through case-based learning. Our mission is to provide high-quality, accessible educational resources that foster critical thinking, practical application, and confidence in clinical settings.
+## Lawrence Richer, MD, FRCPC
 
-Pediatric neurology is a specialized field that requires a deep understanding of both child development and complex neurological conditions. This website is structured to support students, residents, and clinicians by presenting real-world clinical cases that illustrate a wide variety of pediatric neurological disorders. Each case is meticulously prepared to include relevant history, examination findings, differential diagnoses, investigations, and management options.
+I am a pediatric neurologist, clinician-scientist, and Associate Dean (Research) in the College of Health Sciences at the University of Alberta. My work sits at the intersection of clinical medicine, research strategy, and systems design — building infrastructure that helps researchers and clinicians translate discoveries into better patient outcomes.
 
-## Why Case-Based Learning?
+### Institutional Leadership
 
-Case-based learning has proven to be an effective method for building clinical skills. By working through real or realistic patient scenarios, learners are encouraged to integrate knowledge from multiple domains, apply it in practical ways, and engage in clinical reasoning. Each case on this site provides opportunities to think critically, ask meaningful questions, and simulate decision-making in a safe, supportive environment.
+As Associate Dean (Research), I oversee research strategy, funding development, and infrastructure across the College of Health Sciences. This includes:
 
-## Who We Are
+- **Clinical Research Institute (CRI)** — strategic direction and operational oversight for institutional clinical research
+- **AI + Health Hub** — co-leading the University's initiative to embed artificial intelligence in health research
+- **Kipnes Research Institute** — contributing to the launch and strategic planning of this new research institute
+- **Research Hubs** — oversight of the Regenerative Medicine Hub, Healthy Aging Hub, and Collective Health Research Hub
 
-Clinical Teaching in Pediatric Neurology was created by experts in pediatric neurology with years of experience in both clinical practice and medical education. Our team is passionate about fostering the next generation of pediatric neurologists and improving patient care through education.
+### Committee Service
 
-## How to Use This Resource
+I serve on numerous institutional, provincial, and national committees that shape research policy and infrastructure:
 
-We encourage educators to use this resource in bedside teaching sessions, case discussions, and team learning environments. Each case is presented in a format that allows flexibility—whether for structured group learning or for individual study. Each presentation includes discussion points that highlight key diagnostic and therapeutic considerations, as well as teaching tips to facilitate learning.
+**National**
+
+- NACTRC (Northern Alberta Clinical Trials and Research Centre) — Board member
+- CANTRAIN — Canadian clinical trials training network
+- CIHR College of Reviewers — peer review for clinical trial grants
+- ACRC Executive Committee — Alberta Clinical Research Consortium
+
+**Institutional**
+
+- Council of Associate Deans Research (CADR)
+- University Research Advisory Committee (URAC)
+- University Research Infrastructure Advisory Committee (URIAC)
+- Centers and Institutes Committee
+- Research Technology Steering Committee (RTSC)
+- Future Impact Council of the Stollery (FICS)
+- Kaye Fund Steering Committee
+- IPG Infrastructure Working Group
+- Strategic Research Investment Program (SRIP)
+- Clinical Trials Advisory Committee (CTAC)
+- Digital Health Working Group
+- Data Safety Monitoring Board (DSMB)
+
+### Clinical Practice
+
+I maintain an active clinical practice in pediatric neurology at the Stollery Children's Hospital, with subspecialty expertise in:
+
+- **Autonomic disorders** — including POTS, autonomic neuropathies, and dysautonomia
+- **Headache medicine** — pediatric and adolescent migraine, chronic daily headache
+- **Rare neurological diseases** — metabolic and genetic conditions affecting the nervous system
+
+I also provide medico-legal expert opinions for the Canadian Medical Protective Association (CMPA) in pediatric neurology.
+
+### Teaching & Mentorship
+
+Teaching is central to my academic identity. I contribute through:
+
+- Hybrid Pediatric Neurology Case Rounds
+- Neuroscience Grand Rounds
+- Neuro 210 — medical school neuroscience teaching
+- Clinical Trials Workshop — methodology education for trainees and faculty
+- Direct supervision of graduate students and research trainees ([see Team](team.qmd))
+
+### Education & Training
+
+- **MD** — University of Alberta
+- **FRCPC** — Pediatric Neurology, Royal College of Physicians and Surgeons of Canada
+- Fellowship training in pediatric neurology with subspecialty focus in autonomic disorders and headache medicine
+
+### Contact
+
+- **Email:** [lricher@ualberta.ca](mailto:lricher@ualberta.ca)
+- **Institution:** College of Health Sciences, University of Alberta, Edmonton, Alberta, Canada
+- **GitHub:** [github.com/lricher7329](https://github.com/lricher7329)

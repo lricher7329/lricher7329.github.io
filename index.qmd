@@ -1,13 +1,47 @@
 ---
-title: "Clinical Teaching in Pediatric Neurology"
+title: ""
+page-layout: custom
 ---
 
-Welcome to Clinical Teaching in Pediatric Neurology
+```{=html}
+<div class="hero-banner">
+  <div class="hero-content">
+    <h1 class="hero-name">Lawrence Richer</h1>
+    <p class="hero-title">MD, FRCPC</p>
+    <p class="hero-subtitle">Associate Dean (Research), College of Health Sciences<br>
+    University of Alberta</p>
+    <p class="hero-tagline">Clinician-scientist building the systems, partnerships, and platforms that accelerate clinical research from discovery to patient impact.</p>
+  </div>
+</div>
+```
 
-This website is dedicated to enhancing clinical and bedside teaching in pediatric neurology through practical, case-based learning. Designed for healthcare professionals, students, and educators alike, this resource offers a comprehensive collection of clinical cases that cover a wide range of pediatric neurological conditions. Each case is carefully curated to foster a hands-on learning approach, emphasizing the real-world application of knowledge in patient care.
+::: {.content-block}
 
-Whether you’re a trainee looking to deepen your understanding or an experienced clinician seeking to refine your teaching methods, “Clinical Teaching in Pediatric Neurology” serves as a valuable tool. Through detailed case presentations, discussion points, and teaching tips, we aim to promote a dynamic learning environment that bridges theory with clinical practice, helping to develop the next generation of skilled pediatric neurologists.
+## What I Do
 
-## How web pages can support clinical teaching?
+::: {.feature-grid}
 
-Using web pages and PowerPoint slides as teaching tools can significantly enhance clinical education by providing both flexibility and depth in content delivery. Web pages serve as a versatile, accessible platform where learners can explore case studies, review key concepts, and engage with supplementary materials at their own pace. They can be continuously updated to include recent advances in the field and customized with multimedia resources, such as videos, interactive quizzes, and external links, making learning more engaging and dynamic. PowerPoint slides, on the other hand, are valuable in structured teaching sessions, offering a clear, visual format that guides learners through complex information in a logical, digestible sequence. When used together, web pages offer a comprehensive, self-paced learning resource, while PowerPoint slides support focused, interactive discussions, making these tools complementary assets in clinical teaching.
+::: {.feature-card}
+### Research Programs
+Five interconnected research themes spanning autonomic disorders, rare pediatric diseases, headache medicine, clinical trials methodology, and health data science. Grounded in patient care, powered by rigorous methods.
+
+[Explore Research &rarr;](research.qmd)
+:::
+
+::: {.feature-card}
+### Systems & Platforms
+Purpose-built technology platforms that solve real problems in research management, trial matching, metrics, and AI-driven text analysis. Designed to scale across institutions.
+
+[View Systems &rarr;](systems.qmd)
+:::
+
+::: {.feature-card}
+### Clinical Trials Acceleration
+Leading Alberta's vision for faster, smarter clinical trials through the Refocus initiative, CFI infrastructure, national networks, and embedded methodology expertise.
+
+[Learn More &rarr;](clinical-trials.qmd)
+:::
+
+:::
+
+:::

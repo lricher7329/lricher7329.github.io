@@ -1,0 +1,53 @@
+---
+title: "Publications"
+---
+
+A selection of publications organized by research theme. Full publication list available on [Google Scholar](https://scholar.google.com) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/).
+
+---
+
+## Selected Publications
+
+### Autonomic Disorders
+
+*Publication list in progress. Check back for updates.*
+
+### Rare Pediatric Diseases
+
+*Publication list in progress. Check back for updates.*
+
+### Headache & Migraine
+
+*Publication list in progress. Check back for updates.*
+
+### Clinical Trials Methodology
+
+*Publication list in progress. Check back for updates.*
+
+### Health Data & AI
+
+*Publication list in progress. Check back for updates.*
+
+---
+
+## Manuscripts in Preparation
+
+Active manuscripts span several research themes:
+
+- Botox for chronic migraine — real-world evidence study
+- MRI findings in POTS
+- Autonomic dysfunction in Prader-Willi Syndrome
+- Enrichment trial design methods
+- Post-stroke care pathways
+- Ketorolac RCT results
+- MOSAIC study results
+- Pediatric migraine neuroimaging
+- Clinical trial supply chain analysis
+- Diversity in clinical trials
+
+---
+
+::: {.callout-note}
+## Future Integration
+This page is structured for integration with a `.bib` bibliography file. Publications will be automatically rendered from BibTeX entries grouped by theme, with full citation formatting and links to DOIs.
+:::

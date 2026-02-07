@@ -1,0 +1,77 @@
+---
+title: "Research"
+---
+
+My research spans five interconnected themes, united by a commitment to rigorous methodology, patient-centered design, and translational impact.
+
+---
+
+## Autonomic Disorders
+
+Understanding the mechanisms and improving the diagnosis and management of autonomic nervous system dysfunction in children and adults.
+
+::: {.research-projects}
+- **Autonomic Lab** — Core research laboratory for autonomic function testing, including cardiovascular autonomic reflex testing, tilt-table studies, and quantitative sudomotor axon reflex testing
+- **ARRO Study** — Investigating autonomic regulation and outcomes
+- **MRI POTS** — Neuroimaging study of postural orthostatic tachycardia syndrome
+- **PWS ANS** — Autonomic dysfunction in Prader-Willi Syndrome
+- **Long COVID MRI Study** — Characterizing autonomic and neurological sequelae of post-acute COVID-19
+- **ANS Bayesian Analysis** — Developing Bayesian statistical methods for autonomic data
+:::
+
+---
+
+## Rare Pediatric Diseases
+
+Advancing diagnosis and treatment for children with rare neurological and metabolic conditions through clinical trials and collaborative networks.
+
+::: {.research-projects}
+- **TaurineLC** — Phase II clinical trial of taurine supplementation for long-chain fatty acid oxidation disorders (LCFAO), including a pediatric extension study
+- **RareKidsCan** — National rare pediatric diseases research network building collaborative infrastructure for multi-site rare disease trials
+- **Gene Therapy Initiative** — Emerging gene therapy research in pediatric neurological conditions
+- **CLCN Pediatric Taurine Trial** — Engagement with Canadian Lifelong Conditions Networks for pediatric taurine trial expansion
+:::
+
+---
+
+## Headache & Migraine
+
+Clinical and epidemiological research in pediatric and adult headache disorders, including clinical trials and real-world evidence studies.
+
+::: {.research-projects}
+- **AbbVie Atogepant Trial** — Clinical trial of atogepant for migraine prevention
+- **Pfizer Rimegepant Trial** — Clinical trial of rimegepant for migraine treatment
+- **Botox Chronic Migraine RWE** — Real-world evidence study of botulinum toxin for chronic migraine
+- **MRI Migraine** — Neuroimaging in migraine
+- **Cochrane Migraine Systematic Review** — Systematic review of migraine interventions
+- **Enrichment Trial Designs** — Methods manuscript on enrichment designs for headache trials
+:::
+
+---
+
+## Clinical Trials Methodology
+
+Developing and validating novel methods for designing, conducting, and analyzing clinical trials — with a focus on efficiency, adaptive designs, and equity.
+
+::: {.research-projects}
+- **SHIELD Study** — Clinical methodology study
+- **MOSAIC Study** — Multi-site methodology study
+- **Diversity in Clinical Trials** — Research on equity, diversity, and inclusion in trial recruitment and design
+- **AI-Enhanced Clinical Trial Data Strategy** — Developing AI approaches to improve trial data quality and efficiency
+- **Enrichment Trial Designs** — Methodological framework for enrichment strategies in clinical trials
+- **CIHR Grant Success Analysis** — Analyzing factors that predict grant success at CIHR
+:::
+
+---
+
+## Health Data & AI
+
+Leveraging health data platforms, AI/NLP tools, and analytics to accelerate research and improve institutional decision-making.
+
+::: {.research-projects}
+- **PrairiesCan Health Data Platform** — Provincial health data platform initiative
+- **Data Alberta Initiative** — Provincial data strategy for health research
+- **AegisText / Janus** — AI-powered text analysis and NLP pipeline for clinical documents
+- **Bayesian Deep Learning** — Exploring Bayesian neural network methods for clinical prediction
+- **CIHR FDD Analysis** — Analysis of CIHR Funding Decisions Database
+:::

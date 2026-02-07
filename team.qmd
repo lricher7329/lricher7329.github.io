@@ -1,0 +1,84 @@
+---
+title: "Team"
+---
+
+## Current Trainees
+
+::: {.team-grid}
+
+::: {.team-card}
+### Aline Thorkelsson
+**Masters Student**
+
+Graduate research in pediatric neurology.
+:::
+
+::: {.team-card}
+### Tina Xin
+**Masters Student**
+
+Graduate research in pediatric neurology.
+:::
+
+::: {.team-card}
+### Jalena Bertagnolli
+**Research Trainee**
+
+Research training program.
+:::
+
+::: {.team-card}
+### Chelsea Collin
+**Research Trainee**
+
+Research training program.
+:::
+
+::: {.team-card}
+### Veronica Jassal
+**Research Trainee**
+
+Research training program.
+:::
+
+::: {.team-card}
+### Vishal Sharma
+**Research Trainee**
+
+Research training program.
+:::
+
+:::
+
+---
+
+## Key Collaborators
+
+I work within a broad collaborative network across the University of Alberta, Alberta Health Services, and national and international partners.
+
+### Institutional
+
+- **College of Health Sciences** — research strategy, hub oversight, and faculty support
+- **Women and Children's Health Research Institute (WCHRI)** — pediatric research infrastructure
+- **Stollery Children's Hospital** — clinical programs in autonomic disorders and headache
+- **Clinical Research Institute (CRI)** — institutional clinical research strategy
+
+### Provincial & National
+
+- **NACTRC** — Northern Alberta Clinical Trials and Research Centre
+- **ACRC** — Alberta Clinical Research Consortium
+- **CANTRAIN** — Canadian clinical trials training network
+- **RareKidsCan** — National rare pediatric diseases research network
+- **CIHR College of Reviewers** — national peer review
+
+### International
+
+- **APRU** — Asia-Pacific Research Universities network
+- **University of Queensland** — collaborative research partnership
+- **University of Pennsylvania** — proton beam therapy partnership
+
+---
+
+## Join the Team
+
+I welcome inquiries from prospective graduate students, postdoctoral fellows, and research trainees interested in pediatric neurology, clinical trials methodology, autonomic disorders, or health systems research. Contact me at [lricher@ualberta.ca](mailto:lricher@ualberta.ca).

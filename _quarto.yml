@@ -3,36 +3,45 @@ project:
   output-dir: docs
 
 website:
-  title: "ProjectX"
+  title: "Lawrence Richer"
+  description: "Clinician-Scientist | Associate Dean (Research) | University of Alberta"
+  site-url: https://lricher7329.github.io
   navbar:
     background: primary
-    search: true
+    search: false
     left:
       - href: index.qmd
         text: Home
-      - sidebar:cases
+      - href: research.qmd
+        text: Research
+      - href: systems.qmd
+        text: Systems
+      - href: clinical-trials.qmd
+        text: Clinical Trials
+      - href: publications.qmd
+        text: Publications
+      - href: team.qmd
+        text: Team
       - href: about.qmd
         text: About
-    right: 
+    right:
       - icon: github
-        href: https://github.com/
-  sidebar:
-    id: cases
-    title: "Cases"
-    style: docked
-    background: light
-    collapse-level: 2
-    contents: 
-      - cases/leighs_disease.qmd
-      - cases/pots.qmd
-  page-footer: "Copyright 2024, Lawrence Richer"
-  repo-url: https://github.com/lricher7329/lricher7329.github.io
-  repo-actions: [edit, source, issue]
+        href: https://github.com/lricher7329
+      - icon: envelope
+        href: mailto:lricher@ualberta.ca
+  page-footer:
+    left: "&copy; 2026 Lawrence Richer. University of Alberta."
+    right: "Built with [Quarto](https://quarto.org)"
+  open-graph: true
+
 format:
   html:
-    theme: yeti
+    theme:
+      - cosmo
+      - custom.scss
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    page-layout: full
+    mainfont: "Source Sans Pro"
+    grid:
+      body-width: 960px

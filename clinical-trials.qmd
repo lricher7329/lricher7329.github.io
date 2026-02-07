@@ -1,0 +1,76 @@
+---
+title: "Clinical Trials"
+---
+
+Alberta has the talent, the patients, and the institutional will to become a national leader in clinical trials. What has been missing is the connective infrastructure — the systems, metrics, and coordination that turn individual site activity into a cohesive provincial engine. That is what I am building.
+
+---
+
+## The Refocus Initiative
+
+Refocus Clinical Trials is the parent strategic initiative driving clinical trials acceleration in Alberta. It is an integrated program that connects infrastructure investment, technology platforms, national partnerships, and methodology expertise into a single coherent vision.
+
+Refocus encompasses several interconnected projects:
+
+- **CFI-CTAP** — the primary infrastructure grant vehicle
+- **Alberta FAST** — the provincial acceleration framework
+- **Metricis** — the analytics platform providing real-time trial metrics
+- **Methodology programs** — enrichment designs, adaptive trials, AI-enhanced data strategies
+
+---
+
+## CFI-CTAP
+
+The **Clinical Trials Acceleration Platform (CFI-CTAP)** is a major Canada Foundation for Innovation infrastructure grant application designed to build the physical and digital infrastructure needed to run clinical trials faster, more efficiently, and at greater scale across Alberta.
+
+CFI-CTAP supports:
+
+- Shared clinical trial infrastructure across Edmonton and Calgary
+- Technology platforms for trial operations (Catalyst, Metricis)
+- Data integration and analytics capabilities
+- Training and capacity-building for clinical trial personnel
+
+---
+
+## Alberta FAST
+
+**Alberta FAST** (Facilitated Access to Studies and Trials) is a sub-initiative within Refocus aimed at streamlining the pathway from trial concept to patient enrollment. Alberta FAST addresses the operational bottlenecks — contract negotiation, ethics review timelines, site activation — that slow trial startup.
+
+---
+
+## National Partnerships
+
+### NACTRC
+
+The **Northern Alberta Clinical Trials and Research Centre (NACTRC)** is the regional clinical trials network connecting sites, sponsors, and researchers across northern Alberta. I serve on the NACTRC board and contribute to strategic direction, technology integration, and site development.
+
+### PrimeSite
+
+**PrimeSite** is an NACTRC initiative to position Alberta's clinical trial sites as preferred partners for industry-sponsored trials through standardized quality metrics, responsive site activation, and competitive feasibility data.
+
+---
+
+## Trial Methodology
+
+Across all of these initiatives, I maintain an active research program in clinical trial methodology itself:
+
+- **Enrichment trial designs** — using patient selection strategies to improve trial efficiency and reduce sample sizes
+- **Adaptive trial methods** — Bayesian and response-adaptive approaches to trial design
+- **AI-enhanced trial data** — developing NLP and machine learning tools to improve data quality, site monitoring, and signal detection
+- **Diversity in clinical trials** — research on improving equity, diversity, and inclusion in trial recruitment, particularly for Indigenous communities and underrepresented populations
+
+---
+
+## Clinical Trials Funding
+
+I contribute to broader efforts to expand clinical trials funding in Canada:
+
+- **Clinical Trials Funding Expansion Initiative** — strategic initiative to increase federal and provincial investment in clinical trial infrastructure
+- **Tri-Agency Success Initiative** — institutional program to improve success rates on Tri-Council grant competitions
+- **Kaye Innovation Fund** — letter of intent for the Kaye Edmonton Clinic Research Fund
+
+---
+
+## Vision
+
+The goal is not more trials. It is better trials — faster to activate, more efficient to run, more representative of the patients they serve, and more impactful in their outcomes. Alberta can be the province that demonstrates how a coordinated, technology-enabled clinical trials ecosystem works.

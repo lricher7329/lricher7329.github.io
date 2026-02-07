@@ -1,4 +1,0 @@
-## Cases
-
-1. [Leigh's Disease](cases/leighs_disease.qmd)
-2. [Postural Orthostatic Tachycardia Syndrome](cases/pots.qmd)
