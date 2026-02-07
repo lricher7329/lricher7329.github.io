@@ -42,6 +42,6 @@ format:
     css: styles.css
     toc: false
     page-layout: full
-    mainfont: "Source Sans Pro"
+    mainfont: "Inter"
     grid:
       body-width: 960px
