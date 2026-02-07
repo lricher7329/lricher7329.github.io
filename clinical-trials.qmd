@@ -82,10 +82,6 @@ CFI-CTAP supports:
 
 The **Northern Alberta Clinical Trials and Research Centre (NACTRC)** is the regional clinical trials network connecting sites, sponsors, and researchers across northern Alberta. I serve on the NACTRC board and contribute to strategic direction, technology integration, and site development.
 
-### PrimeSite
-
-**PrimeSite** is an NACTRC initiative to position Alberta's clinical trial sites as preferred partners for industry-sponsored trials through standardized quality metrics, responsive site activation, and competitive feasibility data.
-
 ---
 
 ## Trial Methodology
