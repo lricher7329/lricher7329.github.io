@@ -4,6 +4,10 @@ title: "Systems & Platforms"
 
 I design and build technology platforms that address real, unsolved problems in research management, clinical trial operations, and health data. These systems are built to be institutionally adoptable and scalable.
 
+::: {.callout-note appearance="simple"}
+Most repositories are under active development and currently private. If you are interested in collaborating or would like access, please contact me at [lricher@ualberta.ca](mailto:lricher@ualberta.ca).
+:::
+
 ---
 
 ::: {.system-grid}
@@ -24,7 +28,7 @@ A comprehensive platform for managing researcher profiles, tracking grants acros
 
 **Status:** Production development. Project manager hired. Weekly development cycles.
 
-[GitHub &rarr;](https://github.com/lricher7329/catalyst){.system-link}
+[GitHub](https://github.com/lricher7329/catalyst){.system-link} [Private]{.repo-badge .repo-private}
 :::
 
 ::: {.system-card}
@@ -43,7 +47,7 @@ Purpose-built analytics platform supporting the Refocus Clinical Trials initiati
 
 **Status:** Active development. Integrated with Refocus Clinical Trials.
 
-[GitHub &rarr;](https://github.com/lricher7329/metricis){.system-link}
+[GitHub](https://github.com/lricher7329/metricis){.system-link} [Private]{.repo-badge .repo-private}
 :::
 
 ::: {.system-card}
@@ -62,7 +66,7 @@ An NLP pipeline for analyzing clinical and research documents at scale. AegisTex
 
 **Status:** Active development. Demo AI-driven protocol session completed.
 
-[AegisText](https://github.com/lricher7329/aegistext){.system-link} | [Janus](https://github.com/lricher7329/janus){.system-link} | [Janus-medspaCy](https://github.com/lricher7329/janus-medspacy){.system-link}
+[AegisText](https://github.com/lricher7329/aegistext){.system-link} [Private]{.repo-badge .repo-private} | [Janus](https://github.com/lricher7329/janus){.system-link} [Private]{.repo-badge .repo-private} | [Janus-medspaCy](https://github.com/lricher7329/janus-medspacy){.system-link} [Public]{.repo-badge .repo-public}
 :::
 
 ::: {.system-card}
@@ -81,7 +85,7 @@ A decision-support tool for research leaders navigating complex institutional la
 
 **Status:** Active development. Project manager hiring in progress.
 
-[GitHub &rarr;](https://github.com/lricher7329/compass){.system-link}
+[GitHub](https://github.com/lricher7329/compass){.system-link} [Private]{.repo-badge .repo-private}
 :::
 
 ::: {.system-card}
@@ -100,7 +104,7 @@ A patient-facing platform that matches individuals to relevant clinical trials b
 
 **Status:** Active development.
 
-[GitHub &rarr;](https://github.com/lricher7329/bethecure-match){.system-link}
+[GitHub](https://github.com/lricher7329/bethecure-match){.system-link} [Private]{.repo-badge .repo-private}
 :::
 
 :::
