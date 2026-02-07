@@ -14,38 +14,10 @@ Graduate research in pediatric neurology.
 :::
 
 ::: {.team-card}
-### Tina Xin
+### Kelsey Collins
 **Masters Student**
 
 Graduate research in pediatric neurology.
-:::
-
-::: {.team-card}
-### Jalena Bertagnolli
-**Research Trainee**
-
-Research training program.
-:::
-
-::: {.team-card}
-### Chelsea Collin
-**Research Trainee**
-
-Research training program.
-:::
-
-::: {.team-card}
-### Veronica Jassal
-**Research Trainee**
-
-Research training program.
-:::
-
-::: {.team-card}
-### Vishal Sharma
-**Research Trainee**
-
-Research training program.
 :::
 
 :::
