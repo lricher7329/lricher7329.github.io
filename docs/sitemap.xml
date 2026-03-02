@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lricher7329.github.io/about.html</loc>
+    <lastmod>2026-03-02T00:14:32.243Z</lastmod>
+  </url>
+  <url>
     <loc>https://lricher7329.github.io/research.html</loc>
-    <lastmod>2026-02-23T00:15:03.849Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lricher7329.github.io/publications.html</loc>
-    <lastmod>2026-02-23T00:15:12.902Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lricher7329.github.io/team.html</loc>
-    <lastmod>2026-02-23T00:15:03.849Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lricher7329.github.io/index.html</loc>
-    <lastmod>2026-02-23T00:15:03.849Z</lastmod>
+    <lastmod>2026-03-02T00:14:32.270Z</lastmod>
   </url>
   <url>
     <loc>https://lricher7329.github.io/systems.html</loc>
-    <lastmod>2026-02-23T00:15:03.849Z</lastmod>
+    <lastmod>2026-03-02T00:14:32.270Z</lastmod>
   </url>
   <url>
     <loc>https://lricher7329.github.io/clinical-trials.html</loc>
-    <lastmod>2026-02-23T00:15:03.831Z</lastmod>
+    <lastmod>2026-03-02T00:14:32.253Z</lastmod>
   </url>
   <url>
-    <loc>https://lricher7329.github.io/about.html</loc>
-    <lastmod>2026-02-23T00:15:03.820Z</lastmod>
+    <loc>https://lricher7329.github.io/index.html</loc>
+    <lastmod>2026-03-02T00:14:32.270Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lricher7329.github.io/publications.html</loc>
+    <lastmod>2026-03-02T00:14:40.833Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lricher7329.github.io/team.html</loc>
+    <lastmod>2026-03-02T00:14:32.270Z</lastmod>
   </url>
 </urlset>
